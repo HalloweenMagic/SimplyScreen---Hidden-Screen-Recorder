@@ -1,4 +1,6 @@
-![Main screenshot](main.jpg)
+<p align="center">
+  <img src="main.jpg" alt="Main screenshot" width="600">
+</p>
 
 
 ## 🇮🇹 Descrizione
