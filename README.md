@@ -15,14 +15,14 @@ I file vengono salvati in formato **MP4**, con video e audio sincronizzati autom
 
 ⚠️ **Nota importante:** questo software è pensato per registrazioni lecite e con il consenso esplicito dell’utente. Non deve essere utilizzato per attività di sorveglianza non autorizzata.
 
-## 🛠 Requisiti / Requirements
+## 🛠 Requisit
 
 - Python 3.10+  
 - Librerie necessarie: vedi `requirements.txt`  
 
 ---
 
-## ▶️ Installazione e Avvio / Installation and Run
+## ▶️ Installazione e Avvio
 
 1. Installa le dipendenze richieste:
    ```bash
