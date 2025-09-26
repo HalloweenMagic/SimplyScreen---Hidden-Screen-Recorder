@@ -1,3 +1,6 @@
+![Main screenshot](main.jpg)
+
+
 ## 🇮🇹 Descrizione
 
 **SimplyScreen - Hidden Screen Recorder** è un’applicazione Python con interfaccia grafica (Tkinter) che permette di registrare lo schermo del computer insieme all’audio.  
