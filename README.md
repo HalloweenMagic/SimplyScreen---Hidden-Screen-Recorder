@@ -15,7 +15,7 @@ I file vengono salvati in formato **MP4**, con video e audio sincronizzati autom
 
 ⚠️ **Nota importante:** questo software è pensato per registrazioni lecite e con il consenso esplicito dell’utente. Non deve essere utilizzato per attività di sorveglianza non autorizzata.
 
-## 🛠 Requisit
+## 🛠 Requisiti
 
 - Python 3.10+  
 - Librerie necessarie: vedi `requirements.txt`  
